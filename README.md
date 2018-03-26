@@ -11,5 +11,15 @@
 10. git push -u origin master
 
 #  #更新代码：
-1. git remote add origin https://github.com/zhaoqingyue/xxx.git
-2. git push -u origin master
+1. git add . -A
+2. git commit -m "更新说明"
+3. git push -u origin master
+
+#  #下载git项目
+1. git clone https://github.com/zhaoqingyue/xxx.git
+
+
+#  #使用Git工具上传代码流程：
+1. Git commit 
+2. TortoiseGit -> pull
+3. TortoiseGit -> push
